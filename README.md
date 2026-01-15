@@ -47,6 +47,11 @@ Tool ini **tidak melakukan tweak berbahaya**, tidak mengutak-atik registry semba
 - KLIK pckentang.exe Untuk PC/LAPTOP yang sangat kentang ( RUN AS ADMINISTRATOR )
 - kLIK WinLiteOptimizer.exe uNtuk PC/LAPTOP RAM (4GB-DST) RUN AS ADMINISTRATOR
 
+## VIEW 
+
+pckentang.exe <br> <img src="https://raw.githubusercontent.com/Mister-RdanM19/Windows-BOOSTER/refs/heads/main/pckentang.png">
+<br>
+WinLiteOptimizer.exe <br> <img src="https://raw.githubusercontent.com/Mister-RdanM19/Windows-BOOSTER/refs/heads/main/winlite.png">
 ## CONTACT 
 
 Mr.Rm19 - ramdan19id@gmail.com
